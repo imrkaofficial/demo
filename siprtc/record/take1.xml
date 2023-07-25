@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Say loop="1">Your call may be recorded for internal quality and training process.</Say>
-  <Record action="https://raw.githubusercontent.com/RajatRTC/demo/main/siprtc/say/take1.xml" method="GET" timeout="60" finishOnkey="*" maxlength="3600" recordingStatusCallback="https://rbaskets.in/62z8v60" recordingStatusCallbackMethod="GET" recordingStatusCallbackEvent="in-progress completed absent" playBeep="true" />
+  <Record action="https://raw.githubusercontent.com/RajatRTC/demo/main/siprtc/say/take1.xml" method="GET" timeout="60" finishOnkey="*" maxlength="3600" recordingStatusCallback="https://rbaskets.in/62z8v60" recordingStatusCallbackMethod="POST" recordingStatusCallbackEvent="in-progress completed absent" playBeep="true" />
 </Response>
