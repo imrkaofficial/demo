@@ -1,0 +1,5 @@
+<Response>
+	<Dial callerId="+918069496142" action="https://dev4-phone.callhippo.com/api/v2/smartaction/twilio" record="true" recordingStatusCallback="https://rbaskets.in/62z8v60" recordingStatusCallbackMethod="POST" recordingStatusCallbackEvent="in-progress completed" timeLimit="5400" timeout="30">
+		<Number statusCallbackEvent="initiated ringing answered completed" statusCallback="https://rbaskets.in/62z8v60" statusCallbackMethod="POST">+919950555711</Number>
+	</Dial>
+</Response>
