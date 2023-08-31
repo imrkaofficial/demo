@@ -1,0 +1,9 @@
+<Response>
+	<Gather input="dtmf" timeout="30" numDigits="1" finishOnKey="#" action="https://wg8h6r.flow.siprtc.io/dtmf/b9d6cfb2ac6d9246">
+		<Say>Welcome to HDFC bank customer service. Press 1, for account information. press 2, for online banking
+			status. press 3, for account statement. press 4, for credit card services. press 5, for debit card services.
+			press 9, to talk to our customer excecutive. </Say>
+		<Pause length="10"/>
+		<Say>Thank you for your input. Goodbye.</Say>
+	</Gather>
+</Response>
