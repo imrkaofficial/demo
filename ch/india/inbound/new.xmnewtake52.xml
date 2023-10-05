@@ -1,0 +1,6 @@
+<?xml version=\"1.0\" encoding=\"UTF-8\"?>
+<Response>
+	<Dial action="https://raw.githubusercontent.com/RajatRTC/demo/main/siprtc/say/take1.xml" timeLimit="14400" timeout="30">
+		<Sip statusCallbackEvent="completed" statusCallback="https://encwnkbp6azum.x.pipedream.net/">sip:siprtc1696458011968@phone.ch-ca.siprtc.io</Sip>
+	</Dial>
+</Response>
