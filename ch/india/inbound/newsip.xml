@@ -1,0 +1,5 @@
+<Response>
+	<Dial answerOnBridge="true"  action="https://raw.githubusercontent.com/RajatRTC/demo/main/siprtc/say/take1.xml" timeLimit="5400" record="do-not-record" recordingTrack="both" timeout="30" recordingStatusCallback="https://encwnkbp6azum.x.pipedream.net/" recordingStatusCallbackMethod="POST" recordingStatusCallbackEvent="in-progress completed">
+		<Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://encwnkbp6azum.x.pipedream.net/" statusCallbackMethod="POST">sip:siprtc1696458011968@phone.ch-ca.siprtc.io</Sip>
+	</Dial>
+</Response>
